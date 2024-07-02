@@ -1,0 +1,1 @@
+This was a project that was used to learn the basics of Neural Networks Using the 2022 BRFSS CDC Dataset: https://www.cdc.gov/brfss/annual_data/annual_2022.html Part of this code is also on a google Colab at: https://colab.research.google.com/drive/1GTxDkE1y-gn45G1XQykD7dPSn5eOd2Tf?usp=sharing
